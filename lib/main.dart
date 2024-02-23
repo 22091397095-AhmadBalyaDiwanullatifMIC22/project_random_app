@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(
-    const MaterialApp(
+    c MaterialApp(
       home: Scaffold(
         appBar: AppBar(
           title: Text(
